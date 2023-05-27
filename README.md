@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayurchavda369
 - 👀 I’m interested in ...python,django,flask
 - 🌱 I’m currently learning ... python,django & flask
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to opportunity as a python developer role..
 - 📫 How to reach me ... mayurchavda369@gmail.com
 
 <!---
