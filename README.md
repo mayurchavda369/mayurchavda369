@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayurchavda369
 - 👀 I’m interested in ...python,django,flask
-- 🌱 I’m currently learning ... python,django,rest API's & flask
+- 🌱 I’m currently working with ... python,django,rest API's & flask,fast API,mysql.
 - 💞️ I’m looking to opportunity as a python developer role..
 - 📫 How to reach me ... mayurchavda369@gmail.com
 
