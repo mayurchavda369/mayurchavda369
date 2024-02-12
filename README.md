@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mayurchavda369<br>👀 I’m interested in ...python,django,flask<br>🌱 I’m currently working with ... Python,Django, Flask,Rest API's & Fast API,Mysql,MongoDB.<br>💞️ I’m looking to opportunity as a python developer role..<br>📫 How to reach me ... mayurchavda369@gmail.com
+👋 Hi, I’m @mayurchavda369<br>👀 I’m interested in ...python,django,flask<br>🌱 I’m currently working with ... Python,Django, Flask,Rest API's & Fast API,Mysql,MongoDB.<br>💞️ I’m looking to opportunity for a python developer role..<br>📫 How to reach me ... mayurchavda369@gmail.com
 
 
 # 💻 Tech Stack:
